@@ -1,7 +1,7 @@
 # Dashkins-first_project
 This was my first programming project, where i learned basic syntax and became familiar with algorithms in general. The bot's goal is to try to predict the user's intent, but as it turned out, relying on letters isn't entirely practical.
 
-# How does interaction withthe bot work:
+# How does interaction with the bot work:
 The first_programm file is launched where the greeting and input
 are activated in an infinite loop.
 
